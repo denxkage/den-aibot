@@ -1,0 +1,4 @@
+python-telegram-bot>=21.10,<23.0
+openai>=1.68.0,<3.0.0
+psycopg[binary]>=3.2.6,<4.0.0
+python-dotenv>=1.0.1,<2.0.0
