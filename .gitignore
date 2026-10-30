@@ -1,0 +1,11 @@
+.env
+.venv/
+venv/
+pycache/
+*.py[cod]
+deden_ai.db
+*.sqlite
+*.sqlite3
+.vscode/
+.idea/
+.DS_Store
